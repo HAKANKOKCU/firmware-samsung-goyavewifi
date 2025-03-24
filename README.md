@@ -1,4 +1,4 @@
-# samsung-goyavewifi-firmware
+# Samsung-goyavewifi firmware
 Firmware for postmarketOS. 
 I added these mostly to the wiki too.
 
